@@ -1,3 +1,5 @@
+
+
 <?php
 
 $str = 'This is some text. I will be using PHP string functions to change it';
